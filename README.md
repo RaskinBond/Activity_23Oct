@@ -1,5 +1,7 @@
-# Activity_23Oct
-* Creates two vpc's with 4 subnets each using `count`
+## Activity_Oct'23
+------------------
+
+* Creates two vpc's with 4 subnets each using _`count`_
 
 
 ### Activity Reference ~
